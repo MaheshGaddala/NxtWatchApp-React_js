@@ -14,7 +14,7 @@ export const SideBarContainer = styled.ul`
 
 export const OptionItem = styled.li`
   margin-bottom: 31px;
-  font-size: 19px;
+  font-size: 19px;zz
 `
 
 export const OptionsContainer = styled.div`
